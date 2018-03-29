@@ -1,0 +1,2 @@
+# AYIJKLiveDemo
+编译集成ijkplayer并实现拉流的demo
