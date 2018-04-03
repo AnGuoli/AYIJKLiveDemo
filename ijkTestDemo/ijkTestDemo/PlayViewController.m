@@ -19,9 +19,6 @@
     [super viewDidLoad];
     // Do any additional setup after loading the view.
     
-    // http://service.inke.com/api/live/simpleall?&gender=1
-    // stream_addr
-    
     /**
      * 浏览器打开 http://service.inke.com/api/live/simpleall?&gender=1
      * 复制 stream_addr 对应的直播地址 替换下面的urlStr
