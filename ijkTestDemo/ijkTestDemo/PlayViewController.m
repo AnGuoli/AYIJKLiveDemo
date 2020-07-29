@@ -24,7 +24,6 @@
      * 浏览器打开 http://service.inke.com/api/live/simpleall?&gender=1
      * 复制 stream_addr 对应的直播地址 替换下面的urlStr
      */
-    
     self.view.backgroundColor = [UIColor whiteColor];
     // 拉流 URL
     NSURL *liveURL = [NSURL URLWithString:@"http://alsource.pull.inke.cn/live/1522318652343521.flv?ikDnsOp=1&ikHost=tx&ikOp=0&codecInfo=8192&ikLog=0&dpSrcG=21&ikMinBuf=3800&ikMaxBuf=4800&ikSlowRate=1.0&ikFastRate=1.0"];
