@@ -41,7 +41,6 @@
     [playerVC prepareToPlay];
     
     [playerVC play];
-
 }
 
 #pragma mark - 当离开当前直播间的时候，要停止播放
